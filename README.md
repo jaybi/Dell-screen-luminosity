@@ -16,3 +16,5 @@ Commandes bat permettant de controler la luminosité de l'écran Dell
 ```bash
 "C:\Program Files (x86)\Dell\Dell Display Manager\ddm.exe" /SetBrightnessLevel 100
 ```
+
+Le Scipt VBS est un lanceur de commande qui permet de ne pas faire apparaitre de fenetre bash lors de l'exécution.
